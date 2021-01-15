@@ -1,1 +1,1 @@
-* [Day 1: Report Repair](https://github.com/pmcabrales/adventofcode/day1/README.md)
+* [Day 1: Report Repair](https://github.com/pmcabrales/AdventOfCode2020/blob/main/src/main/java/pmcabrales/adventofcode/day1/README.md)
