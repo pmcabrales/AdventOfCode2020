@@ -1,1 +1,2 @@
 * [Day 1: Report Repair](https://github.com/pmcabrales/AdventOfCode2020/blob/main/src/main/java/pmcabrales/adventofcode/day1/README.md)
+* [Day 2: Password Philosophy](https://github.com/pmcabrales/AdventOfCode2020/blob/main/src/main/java/pmcabrales/adventofcode/day2/README.md)
